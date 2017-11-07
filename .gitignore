@@ -57,8 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
-#dist
+# dist
 dist/
 
-#log file
+# output log file
 log.txt

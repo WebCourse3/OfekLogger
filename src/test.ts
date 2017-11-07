@@ -7,4 +7,7 @@ const logger = new Logger('Yarin', {
     logLevel: true,
 });
 
+logger.error('Yoo!', "Man");
 logger.info('Yoo!', "Man");
+logger.debug('Yoo!', "Man");
+logger.warning('Yoo!', "Man");

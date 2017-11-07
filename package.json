@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WebCourse3/OfekLogger-Yarin/issues"
   },
-  "homepage": "https://github.com/WebCourse3/OfekLogger-Yarin#readme"
+  "homepage": "https://github.com/WebCourse3/OfekLogger-Yarin#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.49"
+  }
 }

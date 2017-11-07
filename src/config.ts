@@ -1,4 +1,4 @@
-import { LoggerConfiguration } from './logger'
+import { LoggerConfiguration } from './Logger'
 
 export const defaultConfig = {
     console: true,
